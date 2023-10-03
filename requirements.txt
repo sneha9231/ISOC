@@ -1,0 +1,16 @@
+joblib
+keras
+matplotlib
+matplotlib-inline
+numpy
+opencv-python
+pickleshare
+Pillow
+streamlit
+tensorboard
+tensorboard-data-server
+tensorflow
+tensorflow-estimator
+tensorflow-hub
+tensorflow-io-gcs-filesystem
+
